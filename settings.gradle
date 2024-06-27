@@ -12,5 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "Shimmer"
+rootProject.name = "shimmer"
 include ':app'
